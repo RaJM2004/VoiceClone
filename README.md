@@ -34,3 +34,7 @@ python voice.py
 - Multi-language support (Hindi, English, Spanish, etc.)
 - Interactive real-time mode
 - Fast inference with model persistence
+
+## 🎧 Audio Samples
+Listen to a sample of the generated voice:
+- [Generated Speech (Hindi)](output-51.wav)
