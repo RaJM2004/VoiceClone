@@ -13,4 +13,6 @@ __pycache__/
 # Local outputs
 tts_outputs/
 output.wav
+# Ignore other outputs but keep the sample
 output-*.wav
+!output-51.wav
