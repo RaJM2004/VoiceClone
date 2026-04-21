@@ -1,0 +1,17 @@
+# Environment
+tts-env/
+venv/
+.env
+
+# Large audio samples
+sample.wav
+*.wav
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local outputs
+tts_outputs/
+output.wav
+output-*.wav
